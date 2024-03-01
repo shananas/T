@@ -1,0 +1,176 @@
+title: T
+originalAuthor: Shananas
+game: kh2
+assets:
+- name: obj/P_EX100.mdlx
+  method: copy
+  source:
+  - name: P_EX100.mdlx
+- name: obj/P_EX100_AL_CARPET.mdlx
+  method: copy
+  source:
+  - name: P_EX100_AL_CARPET.mdlx
+- name: obj/P_EX100_BTLF.mdlx
+  method: copy
+  source:
+  - name: P_EX100_BTLF.mdlx
+- name: obj/P_EX100_HTLF.mdlx
+  method: copy
+  source:
+  - name: P_EX100_HTLF.mdlx
+- name: obj/P_EX100_HTLF_BTL.mdlx
+  method: copy
+  source:
+  - name: P_EX100_HTLF_BTL.mdlx
+- name: obj/P_EX100_KH1F.mdlx
+  method: copy
+  source:
+  - name: P_EX100_KH1F.mdlx
+- name: obj/P_EX100_LAST.mdlx
+  method: copy
+  source:
+  - name: P_EX100_LAST.mdlx
+- name: obj/P_EX100_MAGF.mdlx
+  method: copy
+  source:
+  - name: P_EX100_MAGF.mdlx
+- name: obj/P_EX100_MEMO.mdlx
+  method: copy
+  source:
+  - name: P_EX100_MEMO.mdlx
+- name: obj/P_EX100_NM.mdlx
+  method: copy
+  source:
+  - name: P_EX100_NM.mdlx
+- name: obj/P_EX100_NM_BTLF.mdlx
+  method: copy
+  source:
+  - name: P_EX100_NM_BTLF.mdlx
+- name: obj/P_EX100_NM_HTLF.mdlx
+  method: copy
+  source:
+  - name: P_EX100_NM_HTLF.mdlx
+- name: obj/P_EX100_NM_KH1F.mdlx
+  method: copy
+  source:
+  - name: P_EX100_NM_KH1F.mdlx
+- name: obj/P_EX100_NM_MAGF.mdlx
+  method: copy
+  source:
+  - name: P_EX100_NM_MAGF.mdlx
+- name: obj/P_EX100_NM_TRIF.mdlx
+  method: copy
+  source:
+  - name: P_EX100_NM_TRIF.mdlx
+- name: obj/P_EX100_NM_ULTF.mdlx
+  method: copy
+  source:
+  - name: P_EX100_NM_ULTF.mdlx
+- name: obj/P_EX100_NPC.mdlx
+  method: copy
+  source:
+  - name: P_EX100_NPC.mdlx
+- name: obj/P_EX100_SIDECAR.mdlx
+  method: copy
+  source:
+  - name: P_EX100_SIDECAR.mdlx
+- name: obj/P_EX100_TR.mdlx
+  method: copy
+  source:
+  - name: P_EX100_TR.mdlx
+- name: obj/P_EX100_TRIF.mdlx
+  method: copy
+  source:
+  - name: P_EX100_TRIF.mdlx
+- name: obj/P_EX100_TR_BTLF.mdlx
+  method: copy
+  source:
+  - name: P_EX100_TR_BTLF.mdlx
+- name: obj/P_EX100_TR_HTLF.mdlx
+  method: copy
+  source:
+  - name: P_EX100_TR_HTLF.mdlx
+- name: obj/P_EX100_TR_KH1F.mdlx
+  method: copy
+  source:
+  - name: P_EX100_TR_KH1F.mdlx
+- name: obj/P_EX100_TR_LIGHTCYCLE.mdlx
+  method: copy
+  source:
+  - name: P_EX100_TR_LIGHTCYCLE.mdlx
+- name: obj/P_EX100_TR_MAGF.mdlx
+  method: copy
+  source:
+  - name: P_EX100_TR_MAGF.mdlx
+- name: obj/P_EX100_TR_TRIF.mdlx
+  method: copy
+  source:
+  - name: P_EX100_TR_TRIF.mdlx
+- name: obj/P_EX100_TR_ULTF.mdlx
+  method: copy
+  source:
+  - name: P_EX100_TR_ULTF.mdlx
+- name: obj/P_EX100_ULTF.mdlx
+  method: copy
+  source:
+  - name: P_EX100_ULTF.mdlx
+- name: obj/P_EX100_WI.mdlx
+  method: copy
+  source:
+  - name: P_EX100_WI.mdlx
+- name: obj/P_EX100_WI_BTLF.mdlx
+  method: copy
+  source:
+  - name: P_EX100_WI_BTLF.mdlx
+- name: obj/P_EX100_WI_HTLF.mdlx
+  method: copy
+  source:
+  - name: P_EX100_WI_HTLF.mdlx
+- name: obj/P_EX100_WI_KH1F.mdlx
+  method: copy
+  source:
+  - name: P_EX100_WI_KH1F.mdlx
+- name: obj/P_EX100_WI_MAGF.mdlx
+  method: copy
+  source:
+  - name: P_EX100_WI_MAGF.mdlx
+- name: obj/P_EX100_WI_TRIF.mdlx
+  method: copy
+  source:
+  - name: P_EX100_WI_TRIF.mdlx
+- name: obj/P_EX100_WI_ULTF.mdlx
+  method: copy
+  source:
+  - name: P_EX100_WI_ULTF.mdlx
+- name: obj/P_EX100_WM.mdlx
+  method: copy
+  source:
+  - name: P_EX100_WM.mdlx
+- name: obj/P_EX100_XM.mdlx
+  method: copy
+  source:
+  - name: P_EX100_XM.mdlx
+- name: obj/P_EX100_XM_BTLF.mdlx
+  method: copy
+  source:
+  - name: P_EX100_XM_BTLF.mdlx
+- name: obj/P_EX100_XM_HTLF.mdlx
+  method: copy
+  source:
+  - name: P_EX100_XM_HTLF.mdlx
+- name: obj/P_EX100_XM_KH1F.mdlx
+  method: copy
+  source:
+  - name: P_EX100_XM_KH1F.mdlx
+- name: obj/P_EX100_XM_MAGF.mdlx
+  method: copy
+  source:
+  - name: P_EX100_XM_MAGF.mdlx
+- name: obj/P_EX100_XM_TRIF.mdlx
+  method: copy
+  source:
+  - name: P_EX100_XM_TRIF.mdlx
+- name: obj/P_EX100_XM_ULTF.mdlx
+  method: copy
+  source:
+  - name: P_EX100_XM_ULTF.mdlx
