@@ -174,3 +174,248 @@ assets:
   method: copy
   source:
   - name: obj\P_EX100_XM_ULTF.mdlx
+#comment
+- name: obj\P_AL000.mdlx
+  method: copy
+  source:
+  - name: obj\P_AL000.mdlx
+- name: obj\P_AL000_RTN.mdlx
+  method: copy
+  source:
+  - name: obj\P_AL000_RTN.mdlx
+- name: obj\P_BB000.mdlx
+  method: copy
+  source:
+  - name: obj\P_BB000.mdlx
+- name: obj\P_BB000_BTL.mdlx
+  method: copy
+  source:
+  - name: obj\P_BB000_BTL.mdlx
+- name: obj\P_BB000_RTN.mdlx
+  method: copy
+  source:
+  - name: obj\P_BB000_RTN.mdlx
+- name: obj\P_BB000_TSURU.mdlx
+  method: copy
+  source:
+  - name: obj\P_BB000_TSURU.mdlx
+- name: obj\P_CA000_HUMAN.mdlx
+  method: copy
+  source:
+  - name: obj\P_CA000_HUMAN.mdlx
+- name: obj\P_CA000_HUMAN_LOW.mdlx
+  method: copy
+  source:
+  - name: obj\P_CA000_HUMAN_LOW.mdlx
+- name: obj\P_CA000_KAJI_BP_RTN.mdlx
+  method: copy
+  source:
+  - name: obj\P_CA000_KAJI_BP_RTN.mdlx
+- name: obj\P_CA000_KAJI_IS_RTN.mdlx
+  method: copy
+  source:
+  - name: obj\P_CA000_KAJI_IS_RTN.mdlx
+- name: obj\P_CA000_KAJI_RTN.mdlx
+  method: copy
+  source:
+  - name: obj\P_CA000_KAJI_RTN.mdlx
+- name: obj\P_CA000_KAJI_SKL_RTN.mdlx
+  method: copy
+  source:
+  - name: obj\P_CA000_KAJI_SKL_RTN.mdlx
+- name: obj\P_CA000_RTN.mdlx
+  method: copy
+  source:
+  - name: obj\P_CA000_RTN.mdlx
+- name: obj\P_CA000_SKL_NPC.mdlx
+  method: copy
+  source:
+  - name: obj\P_CA000_SKL_NPC.mdlx
+- name: obj\P_EH000.mdlx
+  method: copy
+  source:
+  - name: obj\P_EH000.mdlx
+- name: obj\P_EH000_LAST.mdlx
+  method: copy
+  source:
+  - name: obj\P_EH000_LAST.mdlx
+- name: obj\P_EH000_RTN.mdlx
+  method: copy
+  source:
+  - name: obj\P_EH000_RTN.mdlx
+- name: obj\P_EH000_SIDECAR.mdlx
+  method: copy
+  source:
+  - name: obj\P_EH000_SIDECAR.mdlx
+- name: obj\P_EX020.mdlx
+  method: copy
+  source:
+  - name: obj\P_EX020.mdlx
+- name: obj\P_EX020_ANGRY_NPC.mdlx
+  method: copy
+  source:
+  - name: obj\P_EX020_ANGRY_NPC.mdlx
+- name: obj\P_EX020_NM.mdlx
+  method: copy
+  source:
+  - name: obj\P_EX020_NM.mdlx
+- name: obj\P_EX020_NM_RTN.mdlx
+  method: copy
+  source:
+  - name: obj\P_EX020_NM_RTN.mdlx
+- name: obj\P_EX020_NOBG_RTN.mdlx
+  method: copy
+  source:
+  - name: obj\P_EX020_NOBG_RTN.mdlx
+- name: obj\P_EX020_RTN.mdlx
+  method: copy
+  source:
+  - name: obj\P_EX020_RTN.mdlx
+- name: obj\P_EX020_TR.mdlx
+  method: copy
+  source:
+  - name: obj\P_EX020_TR.mdlx
+- name: obj\P_EX020_TR_RTN.mdlx
+  method: copy
+  source:
+  - name: obj\P_EX020_TR_RTN.mdlx
+- name: obj\P_EX020_TR_TSURU.mdlx
+  method: copy
+  source:
+  - name: obj\P_EX020_TR_TSURU.mdlx
+- name: obj\P_EX020_WM.mdlx
+  method: copy
+  source:
+  - name: obj\P_EX020_WM.mdlx
+- name: obj\P_EX020_XM.mdlx
+  method: copy
+  source:
+  - name: obj\P_EX020_XM.mdlx
+- name: obj\P_EX020_XM_RTN.mdlx
+  method: copy
+  source:
+  - name: obj\P_EX020_XM_RTN.mdlx
+- name: obj\P_EX030.mdlx
+  method: copy
+  source:
+  - name: obj\P_EX030.mdlx
+- name: obj\P_EX030_NM.mdlx
+  method: copy
+  source:
+  - name: obj\P_EX030_NM.mdlx
+- name: obj\P_EX030_NM_RTN.mdlx
+  method: copy
+  source:
+  - name: obj\P_EX030_NM_RTN.mdlx
+- name: obj\P_EX030_NOBG_RTN.mdlx
+  method: copy
+  source:
+  - name: obj\P_EX030_NOBG_RTN.mdlx
+- name: obj\P_EX030_RTN.mdlx
+  method: copy
+  source:
+  - name: obj\P_EX030_RTN.mdlx
+- name: obj\P_EX030_TR.mdlx
+  method: copy
+  source:
+  - name: obj\P_EX030_TR.mdlx
+- name: obj\P_EX030_TR_RTN.mdlx
+  method: copy
+  source:
+  - name: obj\P_EX030_TR_RTN.mdlx
+- name: obj\P_EX030_TR_TSURU.mdlx
+  method: copy
+  source:
+  - name: obj\P_EX030_TR_TSURU.mdlx
+- name: obj\P_EX030_WM.mdlx
+  method: copy
+  source:
+  - name: obj\P_EX030_WM.mdlx
+- name: obj\P_EX030_XM.mdlx
+  method: copy
+  source:
+  - name: obj\P_EX030_XM.mdlx
+- name: obj\P_EX030_XM_RTN.mdlx
+  method: copy
+  source:
+  - name: obj\P_EX030_XM_RTN.mdlx
+- name: obj\P_HE000.mdlx
+  method: copy
+  source:
+  - name: obj\P_HE000.mdlx
+- name: obj\P_HE000_BTL.mdlx
+  method: copy
+  source:
+  - name: obj\P_HE000_BTL.mdlx
+- name: obj\P_HE000_NPC_QSATO.mdlx
+  method: copy
+  source:
+  - name: obj\P_HE000_NPC_QSATO.mdlx
+- name: obj\P_HE000_RTN.mdlx
+  method: copy
+  source:
+  - name: obj\P_HE000_RTN.mdlx
+- name: obj\P_LK000.mdlx
+  method: copy
+  source:
+  - name: obj\P_LK000.mdlx
+- name: obj\P_LK000_MATSU.mdlx
+  method: copy
+  source:
+  - name: obj\P_LK000_MATSU.mdlx
+- name: obj\P_LK000_RTN.mdlx
+  method: copy
+  source:
+  - name: obj\P_LK000_RTN.mdlx
+- name: obj\P_LK020.mdlx
+  method: copy
+  source:
+  - name: obj\P_LK020.mdlx
+- name: obj\P_LK020_RTN.mdlx
+  method: copy
+  source:
+  - name: obj\P_LK020_RTN.mdlx
+- name: obj\P_LK030.mdlx
+  method: copy
+  source:
+  - name: obj\P_LK030.mdlx
+- name: obj\P_LK030_RTN.mdlx
+  method: copy
+  source:
+  - name: obj\P_LK030_RTN.mdlx
+- name: obj\P_LK100.mdlx
+  method: copy
+  source:
+  - name: obj\P_LK100.mdlx
+- name: obj\P_LM100.mdlx
+  method: copy
+  source:
+  - name: obj\P_LM100.mdlx
+- name: obj\P_MU000.mdlx
+  method: copy
+  source:
+  - name: obj\P_MU000.mdlx
+- name: obj\P_MU000_RTN.mdlx
+  method: copy
+  source:
+  - name: obj\P_MU000_RTN.mdlx
+- name: obj\P_MU010.mdlx
+  method: copy
+  source:
+  - name: obj\P_MU010.mdlx
+- name: obj\P_MU010_RTN.mdlx
+  method: copy
+  source:
+  - name: obj\P_MU010_RTN.mdlx
+- name: obj\P_TR000.mdlx
+  method: copy
+  source:
+  - name: obj\P_TR000.mdlx
+- name: obj\P_TR000_RTN.mdlx
+  method: copy
+  source:
+  - name: obj\P_TR000_RTN.mdlx
+- name: obj\P_TR000_TSURU.mdlx
+  method: copy
+  source:
+  - name: obj\P_TR000_TSURU.mdlx
