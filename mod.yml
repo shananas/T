@@ -58,6 +58,14 @@ assets:
   method: copy
   source:
   - name: obj/Donald/P_LK020_RTN.mdlx
+- name: obj/P_WI020.mdlx
+  method: copy
+  source:
+  - name: obj/Donald/P_WI020.mdlx
+- name: obj/P_WI020_RTN.mdlx
+  method: copy
+  source:
+  - name: obj/Donald/P_WI020_RTN.mdlx
 - name: obj/P_EX030.mdlx
   method: copy
   source:
@@ -110,6 +118,14 @@ assets:
   method: copy
   source:
   - name: obj/Goofy/P_LK030_RTN.mdlx
+- name: obj/P_WI030.mdlx
+  method: copy
+  source:
+  - name: obj/Goofy/P_WI030.mdlx
+- name: obj/P_WI030_RTN.mdlx
+  method: copy
+  source:
+  - name: obj/Goofy/P_WI030_RTN.mdlx
 - name: obj/P_AL000.mdlx
   method: copy
   source:
