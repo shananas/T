@@ -2,6 +2,34 @@ title: T
 originalAuthor: Shananas
 game: kh2
 assets:
+- name: obj/N_LM030_RTN.mdlx
+  method: copy
+  source:
+  - name: obj/Atlantica/N_LM030_RTN.mdlx
+- name: obj/N_LM031_MATSU.mdlx
+  method: copy
+  source:
+  - name: obj/Atlantica/N_LM031_MATSU.mdlx
+- name: obj/N_LM040_RTN.mdlx
+  method: copy
+  source:
+  - name: obj/Atlantica/N_LM040_RTN.mdlx
+- name: obj/N_LM050_RTN.mdlx
+  method: copy
+  source:
+  - name: obj/Atlantica/N_LM050_RTN.mdlx
+- name: obj/N_LM060_RTN.mdlx
+  method: copy
+  source:
+  - name: obj/Atlantica/N_LM060_RTN.mdlx
+- name: obj/N_LM010_PLY.mdlx
+  method: copy
+  source:
+  - name: obj/Donald/N_LM010_PLY.mdlx
+- name: obj/N_LM010_RTN.mdlx
+  method: copy
+  source:
+  - name: obj/Donald/N_LM010_RTN.mdlx
 - name: obj/P_EX020.mdlx
   method: copy
   source:
@@ -66,6 +94,14 @@ assets:
   method: copy
   source:
   - name: obj/Donald/P_WI020_RTN.mdlx
+- name: obj/N_LM020_PLY.mdlx
+  method: copy
+  source:
+  - name: obj/Goofy/N_LM020_PLY.mdlx
+- name: obj/N_LM020_RTN.mdlx
+  method: copy
+  source:
+  - name: obj/Goofy/N_LM020_RTN.mdlx
 - name: obj/P_EX030.mdlx
   method: copy
   source:
