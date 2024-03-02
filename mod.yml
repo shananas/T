@@ -270,6 +270,10 @@ assets:
   method: copy
   source:
   - name: obj/org/B_EX260.mdlx
+- name: obj/B_EX330.mdlx
+  method: copy
+  source:
+  - name: obj/org/B_EX330.mdlx
 - name: obj/B_EX370.mdlx
   method: copy
   source:
