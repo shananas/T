@@ -682,3 +682,291 @@ assets:
   method: copy
   source:
   - name: obj/Sora/PO08_PLAYER.mdlx
+- name: obj/B_AL020.mdlx
+  method: copy
+  source:
+  - name: obj/Story Bosses/B_AL020.mdlx
+- name: obj/B_AL100_1ST.mdlx
+  method: copy
+  source:
+  - name: obj/Story Bosses/B_AL100_1ST.mdlx
+- name: obj/B_AL100_2ND.mdlx
+  method: copy
+  source:
+  - name: obj/Story Bosses/B_AL100_2ND.mdlx
+- name: obj/B_AL100_FIRE.mdlx
+  method: copy
+  source:
+  - name: obj/Story Bosses/B_AL100_FIRE.mdlx
+- name: obj/B_AL100_FIRE_GM.mdlx
+  method: copy
+  source:
+  - name: obj/Story Bosses/B_AL100_FIRE_GM.mdlx
+- name: obj/B_AL100_ICE.mdlx
+  method: copy
+  source:
+  - name: obj/Story Bosses/B_AL100_ICE.mdlx
+- name: obj/B_AL100_ICE_GM.mdlx
+  method: copy
+  source:
+  - name: obj/Story Bosses/B_AL100_ICE_GM.mdlx
+- name: obj/B_BB100.mdlx
+  method: copy
+  source:
+  - name: obj/Story Bosses/B_BB100.mdlx
+- name: obj/B_BB100_GM.mdlx
+  method: copy
+  source:
+  - name: obj/Story Bosses/B_BB100_GM.mdlx
+- name: obj/B_BB100_TSURU.mdlx
+  method: copy
+  source:
+  - name: obj/Story Bosses/B_BB100_TSURU.mdlx
+- name: obj/B_BB110.mdlx
+  method: copy
+  source:
+  - name: obj/Story Bosses/B_BB110.mdlx
+- name: obj/B_BB120.mdlx
+  method: copy
+  source:
+  - name: obj/Story Bosses/B_BB120.mdlx
+- name: obj/B_BB120_GM.mdlx
+  method: copy
+  source:
+  - name: obj/Story Bosses/B_BB120_GM.mdlx
+- name: obj/B_CA000.mdlx
+  method: copy
+  source:
+  - name: obj/Story Bosses/B_CA000.mdlx
+- name: obj/B_CA010.mdlx
+  method: copy
+  source:
+  - name: obj/Story Bosses/B_CA010.mdlx
+- name: obj/B_CA010_HUM_GM.mdlx
+  method: copy
+  source:
+  - name: obj/Story Bosses/B_CA010_HUM_GM.mdlx
+- name: obj/B_CA010_HUM_NPC.mdlx
+  method: copy
+  source:
+  - name: obj/Story Bosses/B_CA010_HUM_NPC.mdlx
+- name: obj/B_CA010_SKL_NPC.mdlx
+  method: copy
+  source:
+  - name: obj/Story Bosses/B_CA010_SKL_NPC.mdlx
+- name: obj/B_CA050.mdlx
+  method: copy
+  source:
+  - name: obj/Story Bosses/B_CA050.mdlx
+- name: obj/B_CA050_GM.mdlx
+  method: copy
+  source:
+  - name: obj/Story Bosses/B_CA050_GM.mdlx
+- name: obj/B_EX100.mdlx
+  method: copy
+  source:
+  - name: obj/Story Bosses/B_EX100.mdlx
+- name: obj/B_HE020.mdlx
+  method: copy
+  source:
+  - name: obj/Story Bosses/B_HE020.mdlx
+- name: obj/B_HE020_GM.mdlx
+  method: copy
+  source:
+  - name: obj/Story Bosses/B_HE020_GM.mdlx
+- name: obj/B_HE030.mdlx
+  method: copy
+  source:
+  - name: obj/Story Bosses/B_HE030.mdlx
+- name: obj/B_HE030_CLSM.mdlx
+  method: copy
+  source:
+  - name: obj/Story Bosses/B_HE030_CLSM.mdlx
+- name: obj/B_HE030_GM.mdlx
+  method: copy
+  source:
+  - name: obj/Story Bosses/B_HE030_GM.mdlx
+- name: obj/B_HE030_HE05.mdlx
+  method: copy
+  source:
+  - name: obj/Story Bosses/B_HE030_HE05.mdlx
+- name: obj/B_HE030_NPC_QSATO.mdlx
+  method: copy
+  source:
+  - name: obj/Story Bosses/B_HE030_NPC_QSATO.mdlx
+- name: obj/B_HE030_PART.mdlx
+  method: copy
+  source:
+  - name: obj/Story Bosses/B_HE030_PART.mdlx
+- name: obj/B_HE030_RTN.mdlx
+  method: copy
+  source:
+  - name: obj/Story Bosses/B_HE030_RTN.mdlx
+- name: obj/B_HE100.mdlx
+  method: copy
+  source:
+  - name: obj/Story Bosses/B_HE100.mdlx
+- name: obj/B_HE100_GM.mdlx
+  method: copy
+  source:
+  - name: obj/Story Bosses/B_HE100_GM.mdlx
+- name: obj/B_LK110.mdlx
+  method: copy
+  source:
+  - name: obj/Story Bosses/B_LK110.mdlx
+- name: obj/B_LK110_MATSU.mdlx
+  method: copy
+  source:
+  - name: obj/Story Bosses/B_LK110_MATSU.mdlx
+- name: obj/B_LK110_PHANTOM.mdlx
+  method: copy
+  source:
+  - name: obj/Story Bosses/B_LK110_PHANTOM.mdlx
+- name: obj/B_LK120.mdlx
+  method: copy
+  source:
+  - name: obj/Story Bosses/B_LK120.mdlx
+- name: obj/B_LK120_GM.mdlx
+  method: copy
+  source:
+  - name: obj/Story Bosses/B_LK120_GM.mdlx
+- name: obj/B_MU100.mdlx
+  method: copy
+  source:
+  - name: obj/Story Bosses/B_MU100.mdlx
+- name: obj/B_MU100_GM.mdlx
+  method: copy
+  source:
+  - name: obj/Story Bosses/B_MU100_GM.mdlx
+- name: obj/B_MU100_HOOD.mdlx
+  method: copy
+  source:
+  - name: obj/Story Bosses/B_MU100_HOOD.mdlx
+- name: obj/B_MU100_RTN.mdlx
+  method: copy
+  source:
+  - name: obj/Story Bosses/B_MU100_RTN.mdlx
+- name: obj/B_MU110.mdlx
+  method: copy
+  source:
+  - name: obj/Story Bosses/B_MU110.mdlx
+- name: obj/B_MU120.mdlx
+  method: copy
+  source:
+  - name: obj/Story Bosses/B_MU120.mdlx
+- name: obj/B_MU120_GM.mdlx
+  method: copy
+  source:
+  - name: obj/Story Bosses/B_MU120_GM.mdlx
+- name: obj/B_NM000.mdlx
+  method: binarc
+  source:
+  - name: b_nm
+    type: model
+    method: copy
+    source:
+    - name: obj/Story Bosses/B_NM000.model
+- name: obj/B_NM100.mdlx
+  method: copy
+  source:
+  - name: obj/Story Bosses/B_NM100.mdlx
+- name: obj/B_NM100_GM.mdlx
+  method: copy
+  source:
+  - name: obj/Story Bosses/B_NM100_GM.mdlx
+- name: obj/B_NM110.mdlx
+  method: copy
+  source:
+  - name: obj/Story Bosses/B_NM110.mdlx
+- name: obj/B_NM110_GM.mdlx
+  method: copy
+  source:
+  - name: obj/Story Bosses/B_NM110_GM.mdlx
+- name: obj/B_TR000.mdlx
+  method: copy
+  source:
+  - name: obj/Story Bosses/B_TR000.mdlx
+- name: obj/B_TR000_GM.mdlx
+  method: copy
+  source:
+  - name: obj/Story Bosses/B_TR000_GM.mdlx
+- name: obj/N_EX500_BTL.mdlx
+  method: copy
+  source:
+  - name: obj/Story Bosses/N_EX500_BTL.mdlx
+- name: obj/N_EX570_BTL.mdlx
+  method: copy
+  source:
+  - name: obj/Story Bosses/N_EX570_BTL.mdlx
+- name: obj/N_EX600_BTL.mdlx
+  method: copy
+  source:
+  - name: obj/Story Bosses/N_EX600_BTL.mdlx
+- name: obj/N_EX610_BTL.mdlx
+  method: copy
+  source:
+  - name: obj/Story Bosses/N_EX610_BTL.mdlx
+- name: obj/N_EX610_BTL2.mdlx
+  method: copy
+  source:
+  - name: obj/Story Bosses/N_EX610_BTL2.mdlx
+- name: obj/N_EX760.mdlx
+  method: copy
+  source:
+  - name: obj/Story Bosses/N_EX760.mdlx
+- name: obj/N_EX760_BTL.mdlx
+  method: copy
+  source:
+  - name: obj/Story Bosses/N_EX760_BTL.mdlx
+- name: obj/N_EX760_BTL_CLSM.mdlx
+  method: copy
+  source:
+  - name: obj/Story Bosses/N_EX760_BTL_CLSM.mdlx
+- name: obj/N_EX760_BTL_HERCULES.mdlx
+  method: copy
+  source:
+  - name: obj/N_EX760_BTL_HERCULES.mdlx
+- name: obj/Story Bosses/N_EX760_BTL_MEGARA.mdlx
+  method: copy
+  source:
+  - name: obj/N_EX760_BTL_MEGARA.mdlx
+- name: obj/Story Bosses/N_EX760_BTL_WILLY.mdlx
+  method: copy
+  source:
+  - name: obj/N_EX760_BTL_WILLY.mdlx
+- name: obj/N_EX760_RTN.mdlx
+  method: copy
+  source:
+  - name: obj/N_EX760_RTN.mdlx
+- name: obj/Story Bosses/N_EX940.mdlx
+  method: copy
+  source:
+  - name: obj/N_EX940.mdlx
+- name: obj/Story Bosses/N_EX940_BTL.mdlx
+  method: copy
+  source:
+  - name: obj/N_EX940_BTL.mdlx
+- name: obj/Story Bosses/N_TR010_BTL.mdlx
+  method: copy
+  source:
+  - name: obj/N_TR010_BTL.mdlx
+- name: obj/Story Bosses/N_TR010_BTL_L.mdlx
+  method: copy
+  source:
+  - name: obj/N_TR010_BTL_L.mdlx
+- name: obj/N_TR010_TSURU.mdlx
+  method: copy
+  source:
+  - name: obj/Story Bosses/N_TR010_TSURU.mdlx
+- name: obj/N_WI010_BTL.mdlx
+  method: copy
+  source:
+  - name: obj/Story Bosses/N_WI010_BTL.mdlx
+- name: obj/N_WI010_BTL_VS.mdlx
+  method: copy
+  source:
+  - name: obj/Story Bosses/N_WI010_BTL_VS.mdlx
+- name: obj/N_WI010_RTN.mdlx
+  method: copy
+  source:
+  - name: obj/Story Bosses/N_WI010_RTN.mdlx
