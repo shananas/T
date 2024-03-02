@@ -330,6 +330,18 @@ assets:
   method: copy
   source:
   - name: obj/org/N_CM040_GM.mdlx
+- name: obj/N_HB590_BTL.mdlx
+  method: copy
+  source:
+  - name: obj/org/N_HB590_BTL.mdlx
+- name: obj/N_HB590_GM.mdlx
+  method: copy
+  source:
+  - name: obj/org/N_HB590_GM.mdlx
+- name: obj/N_HB590_RTN.mdlx
+  method: copy
+  source:
+  - name: obj/org/N_HB590_RTN.mdlx
 - name: obj/P_AL000.mdlx
   method: copy
   source:
