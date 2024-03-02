@@ -162,6 +162,174 @@ assets:
   method: copy
   source:
   - name: obj/Goofy/P_WI030_RTN.mdlx
+- name: obj/B_EX110.mdlx
+  method: copy
+  source:
+  - name: obj/org/B_EX110.mdlx
+- name: obj/B_EX110_FRIEND.mdlx
+  method: copy
+  source:
+  - name: obj/org/B_EX110_FRIEND.mdlx
+- name: obj/B_EX110_GM.mdlx
+  method: copy
+  source:
+  - name: obj/org/B_EX110_GM.mdlx
+- name: obj/B_EX110_LV99.mdlx
+  method: copy
+  source:
+  - name: obj/org/B_EX110_LV99.mdlx
+- name: obj/B_EX110_RTN.mdlx
+  method: copy
+  source:
+  - name: obj/org/B_EX110_RTN.mdlx
+- name: obj/B_EX110_SKIRMISH.mdlx
+  method: copy
+  source:
+  - name: obj/org/B_EX110_SKIRMISH.mdlx
+- name: obj/B_EX120.mdlx
+  method: copy
+  source:
+  - name: obj/org/B_EX120.mdlx
+- name: obj/B_EX120_GM.mdlx
+  method: copy
+  source:
+  - name: obj/org/B_EX120_GM.mdlx
+- name: obj/B_EX120_HB.mdlx
+  method: copy
+  source:
+  - name: obj/org/B_EX120_HB.mdlx
+- name: obj/B_EX120_HB_LV99.mdlx
+  method: copy
+  source:
+  - name: obj/org/B_EX120_HB_LV99.mdlx
+- name: obj/B_EX130.mdlx
+  method: copy
+  source:
+  - name: obj/org/B_EX130.mdlx
+- name: obj/B_EX130_GM.mdlx
+  method: copy
+  source:
+  - name: obj/org/B_EX130_GM.mdlx
+- name: obj/B_EX130_LV99.mdlx
+  method: copy
+  source:
+  - name: obj/org/B_EX130_LV99.mdlx
+- name: obj/B_EX140.mdlx
+  method: copy
+  source:
+  - name: obj/org/B_EX140.mdlx
+- name: obj/B_EX140_GM.mdlx
+  method: copy
+  source:
+  - name: obj/org/B_EX140_GM.mdlx
+- name: obj/B_EX140_LV99.mdlx
+  method: copy
+  source:
+  - name: obj/org/B_EX140_LV99.mdlx
+- name: obj/B_EX150.mdlx
+  method: copy
+  source:
+  - name: obj/org/B_EX150.mdlx
+- name: obj/B_EX150_LV99.mdlx
+  method: copy
+  source:
+  - name: obj/org/B_EX150_LV99.mdlx
+- name: obj/B_EX160.mdlx
+  method: copy
+  source:
+  - name: obj/org/B_EX160.mdlx
+- name: obj/B_EX160_GM.mdlx
+  method: copy
+  source:
+  - name: obj/org/B_EX160_GM.mdlx
+- name: obj/B_EX160_LV99.mdlx
+  method: copy
+  source:
+  - name: obj/org/B_EX160_LV99.mdlx
+- name: obj/B_EX170.mdlx
+  method: copy
+  source:
+  - name: obj/org/B_EX170.mdlx
+- name: obj/B_EX170_LAST.mdlx
+  method: copy
+  source:
+  - name: obj/org/B_EX170_LAST.mdlx
+- name: obj/B_EX170_LAST_LV99.mdlx
+  method: copy
+  source:
+  - name: obj/org/B_EX170_LAST_LV99.mdlx
+- name: obj/B_EX170_LV99.mdlx
+  method: copy
+  source:
+  - name: obj/org/B_EX170_LV99.mdlx
+- name: obj/B_EX170_RTN.mdlx
+  method: copy
+  source:
+  - name: obj/org/B_EX170_RTN.mdlx
+- name: obj/B_EX260.mdlx
+  method: copy
+  source:
+  - name: obj/org/B_EX260.mdlx
+- name: obj/B_EX370.mdlx
+  method: copy
+  source:
+  - name: obj/org/B_EX370.mdlx
+- name: obj/B_EX390.mdlx
+  method: copy
+  source:
+  - name: obj/org/B_EX390.mdlx
+- name: obj/B_EX400.mdlx
+  method: copy
+  source:
+  - name: obj/org/B_EX400.mdlx
+- name: obj/B_EX420.mdlx
+  method: copy
+  source:
+  - name: obj/org/B_EX420.mdlx
+- name: obj/N_CM000.mdlx
+  method: copy
+  source:
+  - name: obj/org/N_CM000.mdlx
+- name: obj/N_CM000_BTL.mdlx
+  method: copy
+  source:
+  - name: obj/org/N_CM000_BTL.mdlx
+- name: obj/N_CM010.mdlx
+  method: copy
+  source:
+  - name: obj/org/N_CM010.mdlx
+- name: obj/N_CM010_BTL.mdlx
+  method: copy
+  source:
+  - name: obj/org/N_CM010_BTL.mdlx
+- name: obj/N_CM020.mdlx
+  method: copy
+  source:
+  - name: obj/org/N_CM020.mdlx
+- name: obj/N_CM020_BTL.mdlx
+  method: copy
+  source:
+  - name: obj/org/N_CM020_BTL.mdlx
+- name: obj/N_CM030.mdlx
+  method: copy
+  source:
+  - name: obj/org/N_CM030.mdlx
+- name: obj/N_CM030_BTL.mdlx
+  method: copy
+  source:
+  - name: obj/org/N_CM030_BTL.mdlx
+- name: obj/N_CM040.mdlx
+  method: copy
+  source:
+  - name: obj/org/N_CM040.mdlx
+- name: obj/N_CM040_BTL.mdlx
+  method: copy
+  source:
+  - name: obj/org/N_CM040_BTL.mdlx
+- name: obj/N_CM040_GM.mdlx
+  method: copy
+  source:
+  - name: obj/org/N_CM040_GM.mdlx
 - name: obj/P_AL000.mdlx
   method: copy
   source:
