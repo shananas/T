@@ -390,10 +390,11 @@ assets:
   method: copy
   source:
   - name: obj/Sora/P_EX100_TR_BTLF.mdlx
-- name: obj/P_EX100_TR_HTLF.mdlx
-  method: copy
-  source:
-  - name: obj/Sora/P_EX100_TR_HTLF.mdlx
+#Anti Tron no work
+#- name: obj/P_EX100_TR_HTLF.mdlx
+#  method: copy
+#  source:
+#  - name: obj/Sora/P_EX100_TR_HTLF.mdlx
 - name: obj/P_EX100_TR_KH1F.mdlx
   method: copy
   source:
