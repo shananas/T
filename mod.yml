@@ -670,3 +670,15 @@ assets:
   method: copy
   source:
   - name: obj/Sora/P_LM100.mdlx
+- name: obj/PO06_PLAYER.mdlx
+  method: copy
+  source:
+  - name: obj/Sora/PO06_PLAYER.mdlx
+- name: obj/PO07_PLAYER.mdlx
+  method: copy
+  source:
+  - name: obj/Sora/PO07_PLAYER.mdlx
+- name: obj/PO08_PLAYER.mdlx
+  method: copy
+  source:
+  - name: obj/Sora/PO08_PLAYER.mdlx
