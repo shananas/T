@@ -662,6 +662,34 @@ assets:
   method: copy
   source:
   - name: obj/Sora/P_EX100_XM_ULTF.mdlx
+- name: obj/Sora/P_EX110.mdlx
+  method: copy
+  source:
+  - name: obj/Sora/P_EX110.mdlx
+- name: obj/Sora/P_EX110_BTLF.mdlx
+  method: copy
+  source:
+  - name: obj/Sora/P_EX110_BTLF.mdlx
+- name: obj/Sora/P_EX110_NPC_PAJAMAS.mdlx
+  method: copy
+  source:
+  - name: obj/Sora/P_EX110_NPC_PAJAMAS.mdlx
+- name: obj/Sora/P_EX120.mdlx
+  method: copy
+  source:
+  - name: obj/Sora/P_EX120.mdlx
+- name: obj/Sora/P_EX120_NPC_BLUE.mdlx
+  method: copy
+  source:
+  - name: obj/Sora/P_EX120_NPC_BLUE.mdlx
+- name: obj/Sora/P_EX120_NPC_GREEN.mdlx
+  method: copy
+  source:
+  - name: obj/Sora/P_EX120_NPC_GREEN.mdlx
+- name: obj/Sora/P_EX120_NPC_RED.mdlx
+  method: copy
+  source:
+  - name: obj/Sora/P_EX120_NPC_RED.mdlx
 - name: obj/P_LK100.mdlx
   method: copy
   source:
