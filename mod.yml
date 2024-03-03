@@ -22,6 +22,74 @@ assets:
   method: copy
   source:
   - name: obj/Atlantica/N_LM060_RTN.mdlx
+- name: obj/B_HE000_ISHI.mdlx
+  method: copy
+  source:
+  - name: obj/Cups/B_HE000_ISHI.mdlx
+- name: obj/N_HB500_BTL.mdlx
+  method: copy
+  source:
+  - name: obj/Cups/N_HB500_BTL.mdlx
+- name: obj/N_HB530_BTL.mdlx
+  method: copy
+  source:
+  - name: obj/Cups/N_HB530_BTL.mdlx
+- name: obj/N_HB530_BTL2.mdlx
+  method: copy
+  source:
+  - name: obj/Cups/N_HB530_BTL2.mdlx
+- name: obj/N_HB550_BTL.mdlx
+  method: copy
+  source:
+  - name: obj/Cups/N_HB550_BTL.mdlx
+- name: obj/N_HB550_BTL2.mdlx
+  method: copy
+  source:
+  - name: obj/Cups/N_HB550_BTL2.mdlx
+- name: obj/N_HB570_BTL.mdlx
+  method: copy
+  source:
+  - name: obj/Cups/N_HB570_BTL.mdlx
+- name: obj/N_HB570_BTL2.mdlx
+  method: copy
+  source:
+  - name: obj/Cups/N_HB570_BTL2.mdlx
+- name: obj/N_HB580_BTL.mdlx
+  method: copy
+  source:
+  - name: obj/Cups/N_HB580_BTL.mdlx
+- name: obj/N_HB580_BTL2.mdlx
+  method: copy
+  source:
+  - name: obj/Cups/N_HB580_BTL2.mdlx
+- name: obj/N_HE010_BTL.mdlx
+  method: copy
+  source:
+  - name: obj/Cups/N_HE010_BTL.mdlx
+- name: obj/N_HE010_BTL_CLSM.mdlx
+  method: copy
+  source:
+  - name: obj/Cups/N_HE010_BTL_CLSM.mdlx
+- name: obj/N_HE010_GM1.mdlx
+  method: copy
+  source:
+  - name: obj/Cups/N_HE010_GM1.mdlx
+- name: obj/N_HE010_GM2.mdlx
+  method: copy
+  source:
+  - name: obj/Cups/N_HE010_GM2.mdlx
+- name: obj/N_HE010_ISHI_1.mdlx
+  method: copy
+  source:
+  - name: obj/Cups/N_HE010_ISHI_1.mdlx
+- name: obj/N_HE010_RTN.mdlx
+  method: copy
+  source:
+  - name: obj/Cups/N_HE010_RTN.mdlx
+- name: obj/N_HE010_SIT_RTN.mdlx
+  method: copy
+  source:
+  - name: obj/Cups/N_HE010_SIT_RTN.mdlx
 - name: obj/N_LM010_PLY.mdlx
   method: copy
   source:
@@ -94,42 +162,6 @@ assets:
   method: copy
   source:
   - name: obj/Donald/P_WI020_RTN.mdlx
-- name: obj/N_HB500_BTL.mdlx
-  method: copy
-  source:
-  - name: obj/FF/N_HB500_BTL.mdlx
-- name: obj/N_HB530_BTL.mdlx
-  method: copy
-  source:
-  - name: obj/FF/N_HB530_BTL.mdlx
-- name: obj/N_HB530_BTL2.mdlx
-  method: copy
-  source:
-  - name: obj/FF/N_HB530_BTL2.mdlx
-- name: obj/N_HB550_BTL.mdlx
-  method: copy
-  source:
-  - name: obj/FF/N_HB550_BTL.mdlx
-- name: obj/N_HB550_BTL2.mdlx
-  method: copy
-  source:
-  - name: obj/FF/N_HB550_BTL2.mdlx
-- name: obj/N_HB570_BTL.mdlx
-  method: copy
-  source:
-  - name: obj/FF/N_HB570_BTL.mdlx
-- name: obj/N_HB570_BTL2.mdlx
-  method: copy
-  source:
-  - name: obj/FF/N_HB570_BTL2.mdlx
-- name: obj/N_HB580_BTL.mdlx
-  method: copy
-  source:
-  - name: obj/FF/N_HB580_BTL.mdlx
-- name: obj/N_HB580_BTL2.mdlx
-  method: copy
-  source:
-  - name: obj/FF/N_HB580_BTL2.mdlx
 - name: obj/N_LM020_PLY.mdlx
   method: copy
   source:
@@ -198,6 +230,22 @@ assets:
   method: copy
   source:
   - name: obj/Goofy/P_WI030_RTN.mdlx
+- name: obj/P_EX210.mdlx
+  method: copy
+  source:
+  - name: obj/Micky/P_EX210.mdlx
+- name: obj/P_EX210_RTN.mdlx
+  method: copy
+  source:
+  - name: obj/Micky/P_EX210_RTN.mdlx
+- name: obj/P_EX220.mdlx
+  method: copy
+  source:
+  - name: obj/Micky/P_EX220.mdlx
+- name: obj/P_EX220_RTN.mdlx
+  method: copy
+  source:
+  - name: obj/Micky/P_EX220_RTN.mdlx
 - name: obj/B_EX110.mdlx
   method: copy
   source:
