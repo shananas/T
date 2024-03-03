@@ -94,6 +94,42 @@ assets:
   method: copy
   source:
   - name: obj/Donald/P_WI020_RTN.mdlx
+- name: obj/N_HB500_BTL.mdlx
+  method: copy
+  source:
+  - name: obj/FF/N_HB500_BTL.mdlx
+- name: obj/N_HB530_BTL.mdlx
+  method: copy
+  source:
+  - name: obj/FF/N_HB530_BTL.mdlx
+- name: obj/N_HB530_BTL2.mdlx
+  method: copy
+  source:
+  - name: obj/FF/N_HB530_BTL2.mdlx
+- name: obj/N_HB550_BTL.mdlx
+  method: copy
+  source:
+  - name: obj/FF/N_HB550_BTL.mdlx
+- name: obj/N_HB550_BTL2.mdlx
+  method: copy
+  source:
+  - name: obj/FF/N_HB550_BTL2.mdlx
+- name: obj/N_HB570_BTL.mdlx
+  method: copy
+  source:
+  - name: obj/FF/N_HB570_BTL.mdlx
+- name: obj/N_HB570_BTL2.mdlx
+  method: copy
+  source:
+  - name: obj/FF/N_HB570_BTL2.mdlx
+- name: obj/N_HB580_BTL.mdlx
+  method: copy
+  source:
+  - name: obj/FF/N_HB580_BTL.mdlx
+- name: obj/N_HB580_BTL2.mdlx
+  method: copy
+  source:
+  - name: obj/FF/N_HB580_BTL2.mdlx
 - name: obj/N_LM020_PLY.mdlx
   method: copy
   source:
