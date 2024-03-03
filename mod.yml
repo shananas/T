@@ -953,35 +953,35 @@ assets:
 - name: obj/N_EX760_BTL_HERCULES.mdlx
   method: copy
   source:
-  - name: obj/N_EX760_BTL_HERCULES.mdlx
-- name: obj/Story Bosses/N_EX760_BTL_MEGARA.mdlx
+  - name: obj/Story Bosses/N_EX760_BTL_HERCULES.mdlx
+- name: obj/N_EX760_BTL_MEGARA.mdlx
   method: copy
   source:
-  - name: obj/N_EX760_BTL_MEGARA.mdlx
-- name: obj/Story Bosses/N_EX760_BTL_WILLY.mdlx
+  - name: obj/Story Bosses/N_EX760_BTL_MEGARA.mdlx
+- name: obj/N_EX760_BTL_WILLY.mdlx
   method: copy
   source:
-  - name: obj/N_EX760_BTL_WILLY.mdlx
+  - name: obj/Story Bosses/N_EX760_BTL_WILLY.mdlx
 - name: obj/N_EX760_RTN.mdlx
   method: copy
   source:
-  - name: obj/N_EX760_RTN.mdlx
-- name: obj/Story Bosses/N_EX940.mdlx
+  - name: obj/Story Bosses/N_EX760_RTN.mdlx
+- name: obj/N_EX940.mdlx
   method: copy
   source:
-  - name: obj/N_EX940.mdlx
-- name: obj/Story Bosses/N_EX940_BTL.mdlx
+  - name: obj/Story Bosses/N_EX940.mdlx
+- name: obj/N_EX940_BTL.mdlx
   method: copy
   source:
-  - name: obj/N_EX940_BTL.mdlx
-- name: obj/Story Bosses/N_TR010_BTL.mdlx
+  - name: obj/Story Bosses/N_EX940_BTL.mdlx
+- name: obj/N_TR010_BTL.mdlx
   method: copy
   source:
-  - name: obj/N_TR010_BTL.mdlx
-- name: obj/Story Bosses/N_TR010_BTL_L.mdlx
+  - name: obj/Story Bosses/N_TR010_BTL.mdlx
+- name: obj/N_TR010_BTL_L.mdlx
   method: copy
   source:
-  - name: obj/N_TR010_BTL_L.mdlx
+  - name: obj/Story Bosses/N_TR010_BTL_L.mdlx
 - name: obj/N_TR010_TSURU.mdlx
   method: copy
   source:
